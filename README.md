@@ -1,6 +1,7 @@
 # AllotIQ — risk-aware inventory pre-buy for TBO.com
 
 **VoyageHack 4.0 · Problem statement: Automate Inventory Optimization**
+
 Team ELIXIR, HBTU Kanpur: Sambhav Jaiswal, Badal Khevadiya, Himanshu Raj, Nishant Poddar, Abhishek Yadav
 
 > **Everything in this repository runs on synthetic data.** No TBO data was used. The numbers in our
