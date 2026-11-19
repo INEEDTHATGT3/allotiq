@@ -1,0 +1,121 @@
+{
+  "per_market": [
+    {
+      "market": 1,
+      "budget_inr_cr": 17.26080623441031,
+      "worst5_profit_change_pct": 24.682091228142134,
+      "unsold_hard_change_pct": -62.67372121058481,
+      "demand_served_change_pts": 2.5229870439904656,
+      "expected_profit_change_pct": 2.0487095750471696,
+      "budget_unspent_pct": 10.719668815444273,
+      "lastyear_bias_on_soldout_pct": -28.14048540680203
+    },
+    {
+      "market": 2,
+      "budget_inr_cr": 17.02558285999522,
+      "worst5_profit_change_pct": 28.785942963432866,
+      "unsold_hard_change_pct": -41.49362052112412,
+      "demand_served_change_pts": 3.978198046374626,
+      "expected_profit_change_pct": 6.467989434351251,
+      "budget_unspent_pct": 2.2976172203823086,
+      "lastyear_bias_on_soldout_pct": -39.52048298017738
+    },
+    {
+      "market": 3,
+      "budget_inr_cr": 17.337809241698217,
+      "worst5_profit_change_pct": 5.391172338421302,
+      "unsold_hard_change_pct": -15.948913477738436,
+      "demand_served_change_pts": 3.9814663029912434,
+      "expected_profit_change_pct": 2.072182885841034,
+      "budget_unspent_pct": 0.020980168449902248,
+      "lastyear_bias_on_soldout_pct": -28.746179303947144
+    },
+    {
+      "market": 4,
+      "budget_inr_cr": 17.33229738799194,
+      "worst5_profit_change_pct": 28.729791495551304,
+      "unsold_hard_change_pct": -58.66245654804677,
+      "demand_served_change_pts": 3.570671443998763,
+      "expected_profit_change_pct": 5.59396818841873,
+      "budget_unspent_pct": 6.063849071105631,
+      "lastyear_bias_on_soldout_pct": -42.9403575343169
+    },
+    {
+      "market": 5,
+      "budget_inr_cr": 16.891244023106086,
+      "worst5_profit_change_pct": 23.216979426093353,
+      "unsold_hard_change_pct": -70.14780032908908,
+      "demand_served_change_pts": 1.2201728850912974,
+      "expected_profit_change_pct": 2.32850770978581,
+      "budget_unspent_pct": 16.68500961391436,
+      "lastyear_bias_on_soldout_pct": -34.867796645735574
+    },
+    {
+      "market": 6,
+      "budget_inr_cr": 18.33791478703935,
+      "worst5_profit_change_pct": 3.385951100606821,
+      "unsold_hard_change_pct": -43.00520366433261,
+      "demand_served_change_pts": 3.892941558894758,
+      "expected_profit_change_pct": -0.07108089565808218,
+      "budget_unspent_pct": 0.010953888671361156,
+      "lastyear_bias_on_soldout_pct": -21.89840450547362
+    },
+    {
+      "market": 7,
+      "budget_inr_cr": 16.363890292803188,
+      "worst5_profit_change_pct": 27.802491123917417,
+      "unsold_hard_change_pct": -30.78627783342991,
+      "demand_served_change_pts": 3.810055409403268,
+      "expected_profit_change_pct": 9.019325993326177,
+      "budget_unspent_pct": 0.00209721482069547,
+      "lastyear_bias_on_soldout_pct": -39.43272511224927
+    },
+    {
+      "market": 8,
+      "budget_inr_cr": 15.453026236854717,
+      "worst5_profit_change_pct": 17.8259978037836,
+      "unsold_hard_change_pct": -53.75908175272508,
+      "demand_served_change_pts": 2.0255904756016574,
+      "expected_profit_change_pct": 1.910488093057916,
+      "budget_unspent_pct": 8.10873712313681,
+      "lastyear_bias_on_soldout_pct": -28.87104776917987
+    }
+  ],
+  "summary": {
+    "worst5_profit_change_pct": {
+      "median": 23.949535327117744,
+      "min": 3.385951100606821,
+      "max": 28.785942963432866
+    },
+    "unsold_hard_change_pct": {
+      "median": -48.382142708528846,
+      "min": -70.14780032908908,
+      "max": -15.948913477738436
+    },
+    "demand_served_change_pts": {
+      "median": 3.6903634267010155,
+      "min": 1.2201728850912974,
+      "max": 3.9814663029912434
+    },
+    "expected_profit_change_pct": {
+      "median": 2.200345297813422,
+      "min": -0.07108089565808218,
+      "max": 9.019325993326177
+    },
+    "budget_unspent_pct": {
+      "median": 4.18073314574397,
+      "min": 0.00209721482069547,
+      "max": 16.68500961391436
+    },
+    "lastyear_bias_on_soldout_pct": {
+      "median": -31.869422207457724,
+      "min": -42.9403575343169,
+      "max": -21.89840450547362
+    },
+    "budget_inr_cr": {
+      "median": 17.143194547202768,
+      "min": 15.453026236854717,
+      "max": 18.33791478703935
+    }
+  }
+}

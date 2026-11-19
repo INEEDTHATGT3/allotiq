@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+allotiq_results.json
+allotiq_results.png
+.venv/

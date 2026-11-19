@@ -1,0 +1,53 @@
+{
+  "results": {
+    "P0 No pre-buy (dynamic only)": {
+      "exp_profit": 18774827.833540093,
+      "cvar5": 13694502.046068678,
+      "p_prebuy_loss": 0.0,
+      "availability": 0.6700831715792653,
+      "unsold_hard": 0.0,
+      "capital": 0.0
+    },
+    "P1 Last-year rule": {
+      "exp_profit": 50406299.73429216,
+      "cvar5": 25373316.616313007,
+      "p_prebuy_loss": 0.0003333333333333333,
+      "availability": 0.8932439463292171,
+      "unsold_hard": 2557.806,
+      "capital": 171567279.54265437
+    },
+    "P2 + Demand unconstraining": {
+      "exp_profit": 52168212.93203638,
+      "cvar5": 28053905.1182872,
+      "p_prebuy_loss": 0.0003333333333333333,
+      "availability": 0.8974369122167243,
+      "unsold_hard": 2214.802,
+      "capital": 171708281.64424407
+    },
+    "P3 AllotIQ (portfolio + risk)": {
+      "exp_profit": 53226012.10638745,
+      "cvar5": 32663017.575685807,
+      "p_prebuy_loss": 0.0,
+      "availability": 0.9289506607692047,
+      "unsold_hard": 1057.3341666666668,
+      "capital": 162812930.33828926
+    }
+  },
+  "budget": 173322973.8799194,
+  "kappa": 4.0,
+  "mix": {
+    "hard_room_nights": 14901.0,
+    "soft_room_nights": 8611.0,
+    "skus_with_prebuy": 384
+  },
+  "forecast": {
+    "mape_naive_all": 0.4189701747018848,
+    "mape_unc_all": 0.2264001996245899,
+    "mape_naive_soldout": 0.4408248312276785,
+    "mape_unc_soldout": 0.2434297404745653,
+    "bias_naive_soldout": -0.42940357534316903,
+    "bias_unc_soldout": 0.16671842351728502
+  },
+  "n_skus": 384,
+  "n_soldout": 277
+}
